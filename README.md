@@ -1,9 +1,9 @@
 # Web Stuff
 This repository contains some projects I've done involving CSS/HTML/Bootstrap for frontend work
 ## Projects
-#### Flexbox login UI 
+### Flexbox login UI 
 - ![img](https://imgur.com/gVidv5Pl.png)
-#### Bootstrap email UI (Desktop, Tablet, Mobile viewports)
+### Bootstrap email UI (Desktop, Tablet, Mobile viewports)
 - ![img2](https://imgur.com/nbP4LkDl.png)
 - ![img3](https://imgur.com/n4ow0t1l.png)
 - ![img4](https://imgur.com/CPKOHnzl.png)
