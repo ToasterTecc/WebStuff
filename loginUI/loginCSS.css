@@ -1,9 +1,14 @@
 .flex-container {
-  width: -webkit-fill-available;
+  opacity: 0.85;
+  border: 5px solid green;
+  width: -webkit-fill-available; 
+  width: -moz-available; /*for firefox supp*/
   min-width: fit-content;
   display: flex;
   flex-direction: column;
   background-color: white;
+  background-image: linear-gradient(green, yellow);
+
   box-shadow: 0px 5px 10px grey;
   border-radius: 25px; 
   margin: auto;
@@ -45,8 +50,10 @@ input[type=text]:focus, input[type=password]:focus {
 body {
 	background-color: #f1f1f1;
 	font-family: "Segoe UI",Arial,sans-serif;
+	background-image: url("Rows-tea-background-Japan-Mount-Fuji.jpg");
 }
 h1{
+  color: white;
   font-weight: 400;
   font-size: 1.5em;
 }
